@@ -12,7 +12,7 @@ Simple ECS-style world simulation in GDScript involving islands, their natural r
 ## Images
 ![image](https://github.com/bnemeton/archi/assets/48567955/d9b77bed-27b2-4c7b-8ded-61e08b488ec1)
 
-Population (green or red dots on a tile) convert grassland tiles to farm, cut wood from forest tiles, and mine mineral resources from mountain tiles. Green dots indicate fed population; red dots are population in excess of local food supply, and will be lost on the next update.
+Population (green or red dots on a tile) convert grassland tiles to farm, cut wood from forest tiles, and mine mineral resources from mountain tiles. Green dots indicate fed population; red dots are population in excess of local food supply, and will be lost on the next tick (unless in a town, which may import food from neighboring tiles or road networks, if available).
 
 ![roadtest_2](https://github.com/bnemeton/archi/assets/48567955/b41cb2ef-6036-4aeb-8f24-32d5722fdc2d)
 
