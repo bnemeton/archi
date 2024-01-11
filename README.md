@@ -1,7 +1,7 @@
 # Archi
 
 ## Summary
-Simple ECS-style world simulation involving islands, their natural resources, town formation, road networks, and boats. Green and red pips indicate population, large pink dots indicate towns, and orange lines indicate roads.
+Simple ECS-style world simulation in GDScript involving islands, their natural resources, town formation, road networks, and boats. Green and red pips indicate population, large pink dots indicate towns, and orange lines indicate roads.
 
 ## User interface
 - Left-click a tile with the mouse to add one population.
